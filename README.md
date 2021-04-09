@@ -15,3 +15,14 @@
 | Integrated Graphics | Intel Iris Xe Graphics                     |
 | Sound Card          | Realtek ALC298 (layout-id:??)           |
 | Wireless Card       | Intel Wireless AX201                        |
+
+
+## BIOS Settings
+- TPM Devices: Off
+- Secure Boot Control: Off
+- Fast BIOS Mode: Off
+- USB LAN PXE OPROM: Off
+
+## Reference
+- [wei756/NT950XCR-G58A-Hackintosh](https://github.com/wei756/NT950XCR-G58A-Hackintosh)
+- https://dortania.github.io/OpenCore-Install-Guide
