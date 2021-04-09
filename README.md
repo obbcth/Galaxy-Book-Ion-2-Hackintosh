@@ -12,7 +12,6 @@
 | Processor           | Intel Core i5-1135G7 Processor     |
 | Memory              | 8GB/16GB Samsung DDR4 3200MHz              |
 | Hard Disk           | Samsung NVME SSD PM9A1 (980 PRO OEM)  |
-| Integrated Graphics | Intel Xe Graphics                     |
-| Sound Card          | Realtek ALC256 (layout-id:13)           |
-| Ethernet Card       | Realtek RTL8168/8111                        |
-| Wireless Card       | Intel Wireless AX210                        |
+| Integrated Graphics | Intel Iris Xe Graphics                     |
+| Sound Card          | Realtek ALC298 (layout-id:??)           |
+| Wireless Card       | Intel Wireless AX201                        |
